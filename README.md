@@ -302,7 +302,7 @@ SYKES-KALI is one node in a larger home lab environment:
 
 | Machine | Role |
 |---|---|
-| **SYKESHOMESERVER** | Ryzen 5 9600X, Win 11 Pro — Docker host, AD, Security Onion, osTicket |
+| **SYKESHOMESERVER** | Ryzen 5 5500, Win 11 Pro — Docker host, AD, Security Onion, osTicket |
 | **Personal PC** | Main workstation — management, SSH client, development |
 | **HP Victus** | Intel i7-12650H, RTX 3050 Ti — portable workstation |
 | **SYKES-KALI** | ASUS X550ZA, Kali Linux — dedicated security lab node |
